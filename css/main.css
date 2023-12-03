@@ -1,0 +1,60 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+img{
+	max-width:100%;
+
+}
+
+.cursive{
+   font-family: 'Courier New', Courier, monospace;
+}
+.color-for-body{
+    background-color: rgb(244, 232, 233);
+}
+
+.link-change{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.link-change2{
+    text-decoration: none;
+    text-align: center;
+}
+.link-change3{
+    text-decoration: none;
+    color: black;
+  
+}
+.cart-box{
+    border: 1px solid gray;
+    padding: 50px;
+}
+.cus_comment1{
+    text-align: center;
+    font-family: 'Lucida Sans',  'Lucida Sans Unicode',  sans-serif;
+}
+.txt_com{
+    font-family: 'Lucida Sans',  'Lucida Sans Unicode',  sans-serif;
+}
+.cus_comment{
+    justify-content: space-between;
+}
+.cus_comment2{
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 25%;
+}
+.adj1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.loginstuff{
+    text-align: center;
+    justify-content: center;
+}

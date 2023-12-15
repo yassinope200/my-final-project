@@ -8,6 +8,11 @@ function getYear() {
 getYear();
 
 
+function contactis(){
+    
+    
+}
+
 // client section owl carousel
 $(".client_owl-carousel").owlCarousel({
     loop: true,
